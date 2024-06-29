@@ -1,3 +1,3 @@
-# Lnading Page using HTML,CSS,JAVASCRIPT
+# Landing Page using HTML,CSS,JAVASCRIPT
 
 
